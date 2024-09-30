@@ -1,0 +1,21 @@
+Fecha: 29 de septiembre
+
+Descripción de actividades:
+1. Creación del repositorio del proyecto en GitHub.
+2. Redacción del archivo README.md con información pertinente sobre el proyecto, incluyendo:
+    - Descripción del proyecto
+    - Objetivos
+    - Instrucciones de instalación y uso
+    - Contribuciones y licencias
+3. Creación del primer documento de especificación de requisitos, abarcando:
+    - Requisitos funcionales
+    - Requisitos no funcionales
+
+Observaciones:
+- El repositorio se encuentra en la siguiente URL: https://github.com/omararias/YFL
+- El documento de especificación de requisitos se encuentra en la carpeta `Documentacion del proyecto/REQ FASE`.
+https://github.com/omararias/YFL/blob/main/Documentacion%20del%20proyecto/REQ%20FASE/especificacion%20requisitos.txt
+
+Próximos pasos:
+- Revisión y validación del documento de especificación de requisitos.
+- Planificación de las siguientes fases del proyecto.
