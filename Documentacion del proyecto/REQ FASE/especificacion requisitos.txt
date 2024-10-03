@@ -55,6 +55,7 @@ USABILIDAD:
 
     •RNF3   Tiempo de aprendizaje: Un nuevo usuario debe ser capaz de realizar las tareas más comunes dentro de 30 minutos de uso.
     •RNF4	Intuición de la interfaz: El sistema debe ser fácilmente comprensible para los usuarios sin necesidad de capacitación extensa.
+    •RNF5   La aplicación debe adaptarse dinámicamente a diferentes tamaños de pantalla y resoluciones.
 
 RENDIMIENTO:
 	•RNF5	Tiempo de respuesta: El sistema debe responder en menos de 2 segundos para cualquier solicitud del usuario.
